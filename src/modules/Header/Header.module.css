@@ -1,0 +1,9 @@
+.header {
+      max-height: 70px;
+  background-color: aqua;
+  grid-area: h;
+}
+header img {
+  height: 50px;
+  width: auto;
+}
